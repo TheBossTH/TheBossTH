@@ -1,6 +1,5 @@
 # ✨Welcome to my Github✨
-<img src="https://github.com/TheBossTH/TheBossTH/blob/master/cat.gif?raw=true"/>
-
+![Cute Cat](https://github.com/TheBossTH/TheBossTH/blob/master/cat.gif?raw=true)
 
 <!--
 **TheBossTH/TheBossTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
